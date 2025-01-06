@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">-Desenvolvedor Front-end<br>- Acadêmico em ADS<br>-Atualmente estudando React</p>
+<p align="left">-Desenvolvedor Front-end<br>- Acadêmico em ADS<br>-Estudando React</p>
 
 ###
 
