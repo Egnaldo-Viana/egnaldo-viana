@@ -42,10 +42,12 @@
 
 <p align="left">Confira alguns dos meus principais projetos:</p>
 
-- 🔗 [Bikcraft](https://egnaldo-viana.github.io/bikcraft/) — Site institucional de uma marca fictícia de bicicletas elétricas (HTML, CSS, JavaScript)
-- 🔗 [Flexblog](https://egnaldo-viana.github.io/Flexblog/) — Projeto com foco em Flexbox
-- 🔗 [Wildbeast](https://egnaldo-viana.github.io/Wildbeast/) — Layout com CSS Grid
-- 🔗 [Animais Fantásticos](https://egnaldo-viana.github.io/animais/) — Projeto focado em interatividade com JavaScript
+- 🔗 **[Dogs](https://egnaldo-viana.github.io/Dogs/)** — Rede social para cachorros desenvolvida em React (Origamid) com login, upload de fotos, comentários, perfil de usuários, estatísticas e deploy no GitHub Pages.
+- 🔗 [Bikcraft](https://egnaldo-viana.github.io/bikcraft/) — Site institucional de uma marca fictícia de bicicletas elétricas (HTML, CSS, JavaScript).
+- 🔗 [Flexblog](https://egnaldo-viana.github.io/Flexblog/) — Projeto com foco em Flexbox.
+- 🔗 [Wildbeast](https://egnaldo-viana.github.io/Wildbeast/) — Layout responsivo com CSS Grid.
+- 🔗 [Animais Fantásticos](https://egnaldo-viana.github.io/animais/) — Projeto com interatividade em JavaScript.
+
 
 ###
 
