@@ -1,3 +1,6 @@
+<h1>Egnaldo dos Santos Viana</h1>
+
+
 <h2 align="left">👨‍💻 Sobre mim</h2>
 
 <p align="left">
@@ -32,8 +35,7 @@
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=egnaldo-viana&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=pt-br" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=egnaldo-viana&layout=compact&langs_count=6&theme=dracula&locale=pt-br" height="150" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=egnaldo-viana&radius=16&theme=react&area=true" height="300" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=egnaldo-viana&layout=compact&langs_count=6&theme=dracula&locale=pt-br" height="200" />
 </div>
 
 ###
