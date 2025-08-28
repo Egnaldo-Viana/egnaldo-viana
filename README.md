@@ -6,7 +6,7 @@
 <p align="left">
   - Desenvolvedor Front-end e UX/UI Design <br>
   - Formado em Análise e Desenvolvimento de Sistemas<br>
-  - Atualmente estudando Tailwind CSS para melhorar minhas habilidades em design responsivo e moderno
+  - Atualmente estudando TypeScript
 </p>
 
 ###
